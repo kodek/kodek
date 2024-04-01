@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```bash
+curl -L kodek.github.io/ssh.sh | bash
+```
+
 <!--
 **kodek/kodek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

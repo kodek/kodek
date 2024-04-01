@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Add public SSH key
+
 ```bash
 curl -L kodek.github.io/ssh.sh | bash
 ```
